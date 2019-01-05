@@ -9,7 +9,7 @@ Sistem Informasi Pendataan Anggota Peserta SKKNI 2017 Berbasis Web
 View this Project-One [Coming soon](https://hendriekasaputra.github.io/Project-One/)
 
 ## Screenshot
-![screenshot](Project-One/Picture%Program.PNG)
+![screenshot](https://hendriekasaputra.github.io/Picture%Program.PNG)
 
 ## Version
 1.0
