@@ -6,10 +6,10 @@ Sistem Informasi Pendataan Anggota Peserta SKKNI 2017 Berbasis Web
  - Create database and import database from folder database in project
  - run your server (xampp)
 # Demo
-View this jekyll theme in action [Coming soon](https://.github.io/)
+View this Project-One [Coming soon](https://hendriekasaputra.github.io/Project-One/)
 
 ## Screenshot
-![screenshot](https://github.com/hendriekasaputra/Project-One/Picture%Program.PNG)
+![screenshot](Project-One/Picture%Program.PNG)
 
 ## Version
 1.0
