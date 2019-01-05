@@ -1,0 +1,13 @@
+Nama		: Hendri Eka Saputra
+Judul Karya	: Sistem Informasi Pendaatan Perserta SKKNI 2017 Rokan Hulu
+Diskripsi	: Sistem Informasi Pendaatan Perserta SKKNI 2017 Rokan Hulu merupakan sistem informasi untuk pendataan peserta sebagai perserta SKKNI 2017 dengan system informasi berbasis web.
+		  Beberapa data yang dibutuhkan yaitu NIK/KTM, NAMA PESERTA, TANGGAL LAHIR, NO HP dan ALAMAT.
+		  Sistem ini dapat membantu mempermudah, menginputkan, mengelola, menyimpan dan menampilkan informasi identitas peserta SKKNI 2017 di Rokan Hulu.
+Spesifikasi
+HTML		: HTML 5, Hyper Text Markup Language digunakan bahasa pemograman untuk mengelola dan menampilkan format document di web.
+CSS		: Css 3, di gunakan untuk memberikan style mempercantik documents dan tampilan di web.
+PHP		: Php 5, di gunakan untuk script basaha server dan membuat halaman web dinamis dan interaktif.
+JS		: Javascript, di gunakan untuk membuat web secara interaktif
+JSON		: JavaScript Object Notation, di gunakan untuk storing dan excharging data, biasanya JSON di tulis untuk notasi object javascript.
+Bootstraap	: Bootstraap 3, sebuah templete atau framework untuk membuat dan mendesain web lebih powerfull.
+Database	: MySQL, sebuah database untuk menyimpan data yang digunakan untuk web dan banyak lagi.
